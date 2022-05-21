@@ -1,0 +1,86 @@
+ g4 = {bc, cd |    <  bc  ,  cd  >        , < cd            , bc>      }         * { bc , [dfg;sss], w |}
+ print(g4)
+ save(g4, as d a s d)
+ print(!load(as d a s d))
+ g5 = !! ( !{G} + ( !( !( !( !( !( !( {Load, load1, loaD, Daol}))))))))
+ print(g5)
+                        save           ( g4*g4 + !{a1, a2, a3, a4} , asd.gc )
+                        print  ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( (load(                 asd.gc) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+                        reset
+                        quit123 = {    BC, DF , print, load, who, reset, quit, delete|}
+                        quit123S = {    BC, DF , print, load, who, reset, quit, delete}
+                        print ( quit123 )
+                        delete(quit123)
+                        who
+                        print(quit123)
+                        delete ( {A, B, C} )
+                        quit123 = !{b, c, d, e}
+                        save (quit123,             {abc} )
+                        abc = load ({abc})
+                        print(abc)
+                        quit123S = ! quit123S
+                        g1 = quit123S*quit123S
+                        print(g1)
+                        delete(g1)
+                        g1 = !{ A, B , c, C, d, E , e }
+ print ( g1 )
+print     (g1)
+    prin t (g 1)
+ delete ((  g2       ))
+ g2 = {A5}
+ delete (   g2   )
+who
+g5 = {A, B, C, D, |} + (load({abc}) * !{b, e})
+who
+print(g5)
+g1 = !{a, b, c, d, e, r, t, y, x, u}
+print(g1)
+save({bc, cd |    <  bc  ,  cd  >        , <bc,cd>      }, no)
+print(load(no))
+save({bc, cd |    <  bc  ,  bc  >        , <bc,cd>      }, no)
+print(load(no))
+save({bc, cd |    <    ,  bc  >        , <bc,cd>      }, no)
+print(load(no))
+save ({b c, cd |    <   cd ,  bc  >        , <bc,cd>      }, no)
+print(load(no))
+save({bc, cd |    <   cd ,  bc  >        , <bc,cd>      }, yes)
+print(load(yes))
+
+who
+reset
+g1 = !{A}
+g2 = {B}
+g3 = {C}
+print  ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( { | } ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+print  ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ({ | |} ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+print  ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ({} ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+
+print  ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( (g3 ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+g2 = (!{ert} + g1 + {qwe |} + {s,d | < s , d  > }) 
+print(g2)
+who
+ who
+w h o
+who123 = {abc}
+quit123 = {def, dfg, great1122| <def, dfg>}
+print (!(quit123) - !(who123))
+1print1 = {abc}
+1who1 = {abc}
+1reset1 = {abc}
+1quit1 = {abc}
+1delete1 = {abc}
+1load1 = {abc}
+print(!({a}+{b}+{c}+{d}+{e}+{f}+{g}+{h}+{i}+{j}+{k}+{l}+{m}+{n}+{o}+{p}+{q}+{r}+{s}))
+graphsave = !{qwe, ewqq, wwww|}
+save(graphsave, graphsave)
+print( ( load            ( graphsave ) + graphsave ) * (load(graphsave)+graphsave))
+print((load(graphsave)+graphsave)-(load(graphsave)+graphsave))
+print(!(load(graphsave)+graphsave)+(load(graphsave)+graphsave))
+g2 = {a, b, c | <a, b> , <a, c> }
+g3 = {d, e, c | <d, e> , <e, c> } + g2
+print(!g2 - g3)
+who
+reset
+infinity = !{print, who, load, reset, quit, delete, save}
+savee(infinity, , asd)
+quit
